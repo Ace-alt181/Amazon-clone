@@ -1,4 +1,4 @@
 # Amazon-clone
 Amazon Afghanistan Clone
 <br>
-Autur - Hammedullah Jamal
+Autur - Hameedullah Jamal
